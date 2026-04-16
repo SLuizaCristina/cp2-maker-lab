@@ -15,7 +15,7 @@ Pedro Palladino RM551180
 | Caixinha 200Ω | 45 mm | 22,0 mm |
 | Caixinha 1kΩ | 45 mm | 22,0 mm |
 | Caixinha 10kΩ | 45 mm | 22,0 mm |
-![Caixinhas](owns.jpeg)
+![Caixinhas](ohm.jpeg)
 ---
 
 ### ⚙️ Discos

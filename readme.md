@@ -24,7 +24,7 @@ Pedro Palladino RM551180
 | Disco com desenho | 100,95 mm | 3,3 mm |
 | Disco com pinos | 100,95 mm | 7,05 mm |
 | Disco da base| 100,95 mm | 1,1 mm |
-| Disco da base (com paredes) | - | 9,4 mm |
+| Disco da base (com paredes) | 100,95 | 9,4 mm |
 
 ### Disco com Desenho
 
